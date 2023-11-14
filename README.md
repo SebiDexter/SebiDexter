@@ -16,8 +16,10 @@
 		ls -l ruta_del_archivo_o_directorio
 ###### - Ver permisos de archivos/directorios Puedes usar el comando ls con la opción -l para ver los permisos de archivos y directorios
 
+
 		id nombre_de_usuario
 ###### - Verificar Cambios 
+
 
 		su nombre_usuario
 ###### - Cambiar de usuario sin salir de consola
